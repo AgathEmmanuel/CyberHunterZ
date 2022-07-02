@@ -1,8 +1,42 @@
 # CyberHunter  
 
-
 A deep learning model that hunts for harmful files based on structural analysis  
 
+
+## Cyber Challenges  
+- modernization in terms of cloud adoption  
+- difficulty to maintain a SOC (Security Operations Center)  
+- managing cybersecurity is difficult due to increased signal quantity ( amount of people acessing an application or executing a certain process has increased )  
+- Collection is not Detection ( anywhere there is a log, its monitored and made sure nothing suspecious is occuring, but not all of these log sources is good enough, data Hygeine is a main issue, which logs are really important and which are the vital data sets to be monitored, consequences of over collection include costs, SOC fatigue, storage, regulatory restrictions )   
+- understanding the trends in the market and adapting your security setup accordingly  
+
+## Existing tools outhere  
+- Cloud Security Posture Management  CSPM  
+    * Guidance on security best practices  
+    * Oversight on cloud and OnPrem resources  
+    * Visualize vulnerabilities  
+    * Prioritize proactive security work  
+- Cloud Workload Protection Platform  CWPP  
+    * Continous monitoring of cloud and onPrem activity  
+    * Receive alerts of suspicious activity  
+    * Machine Learning to correlate raw events  
+    * Vulnerability management  
+- Security Information and Event Management  SIEM  
+    * Unified view and management of security related signals  
+    * Investigation platform for suspicious activity  
+    * Hunting platform to find emerging threats  
+    * Receive alerts and create new detections  
+- Security Orchestration Automation and Response  SOAR  
+    * Low-code / No-code automation building tools  
+    * Powerful tool for data enrichment automatically or on demand  
+    * Automate alert triaging to reduce false positives  
+    * Integrate with multiple platforms  
+- Languages used in building detections  
+    * Kusto Query Language (KQL)  
+    * Splunk Search Processing Language (SPL)  
+    * PowerShell
+    * Python  
+    * JSON  
 
 
 
@@ -25,6 +59,17 @@ Types of Network security monitoring
 - Big data security analytics (BDSA)  
 
 
+Data Engineering Required  
+- Databases and SQL  
+- Big data with spark and hadoop  
+- machine learing  
+- ETL and data pipelines  
+- Data warehousing  
+- Build a data platform for Cybersecurity Data analytics  
+
+Product End Goal  
+- A system  that can be deployed across the organisation landscape having ML models that evolves continously in detecting cybersecurity issues and does required resolution and alerting  
+
 
 ## Components  
 
@@ -42,6 +87,16 @@ DL Model:
 
 
 
+
+Technologies Used:  
+- Golang, TypeScript, NodeJS, Python  
+- REST & gRPC microservices  
+- NextJS  
+- Pytorch  
+- Docker, Kubernetes, Kafka, Kubeflow  
+- Spark  
+- ELK  
+- Helm, Operators  
 
 
 
@@ -66,6 +121,14 @@ DL Model:
 [https://link.springer.com/book/10.1007/978-1-4842-6193-4](https://link.springer.com/book/10.1007/978-1-4842-6193-4)  
 [https://insights.sei.cmu.edu/blog/topics/reverse-engineering-for-malware-analysis/](https://insights.sei.cmu.edu/blog/topics/reverse-engineering-for-malware-analysis/)  
 [What the Helk? Enabling Graph Analytics for Threat Hunting](https://youtu.be/eiWYweKArQ4)  
+[https://thehelk.com/intro.html](https://thehelk.com/intro.html)  
 [Advanced Windows Logging - Finding What AV Missed](https://youtu.be/C2cgvpN44is)  
 [SOF ELK® A Free, Scalable Analysis Platform for Forensic, Incident Response, and Security Operation](https://youtu.be/Hk6An-LJ4jY)  
-
+[Data Analysis Challenges in Cybersecurity](https://youtu.be/SmDL7t6UQk0)  
+[https://github.com/stackrox/stackrox](https://github.com/stackrox/stackrox)  
+[https://github.com/aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter)  
+[https://github.com/tenable/terrascan](https://github.com/tenable/terrascan)  
+[https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/)  
+[https://analyticsindiamag.com/a-guide-to-building-reinforcement-learning-models-in-pytorch/](https://analyticsindiamag.com/a-guide-to-building-reinforcement-learning-models-in-pytorch/)  
+[https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)  
+[https://codefresh.io/learn/argo-cd/argo-cd-helm-chart/](https://codefresh.io/learn/argo-cd/argo-cd-helm-chart/)  
