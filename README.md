@@ -1,4 +1,4 @@
-# CyberHunter  
+# CyberHunterz  
 
 A deep learning model that hunts for harmful files based on structural analysis  
 
@@ -66,6 +66,7 @@ Data Engineering Required
 - ETL and data pipelines  
 - Data warehousing  
 - Build a data platform for Cybersecurity Data analytics  
+- ML-ops
 
 Product End Goal  
 - A system  that can be deployed across the organisation landscape having ML models that evolves continously in detecting cybersecurity issues and does required resolution and alerting  
@@ -91,13 +92,23 @@ DL Model:
 Technologies Used:  
 - Golang, TypeScript, NodeJS, Python  
 - REST & gRPC microservices  
-- NextJS  
+- React  
 - Pytorch  
 - Docker, Kubernetes, Kafka, Kubeflow  
 - Spark  
 - ELK  
 - Helm, Operators  
 
+# Cloud Cybersecurity Companies
+[https://www.extrahop.com/](https://www.extrahop.com/)  
+[https://www.crowdstrike.com/](https://www.crowdstrike.com/)  
+[https://jumpcloud.com/](https://jumpcloud.com/)  
+[https://www.automox.com/](https://www.automox.com/)  
+[https://www.forcepoint.com/](https://www.forcepoint.com/)  
+[https://www.vmware.com/security.html](https://www.vmware.com/security.html)  
+[https://red8.com/](https://red8.com/)  
+[https://onapsis.com/](https://onapsis.com/)  
+[https://icrypto.com/](https://icrypto.com/)  
 
 
 
@@ -132,3 +143,9 @@ Technologies Used:
 [https://analyticsindiamag.com/a-guide-to-building-reinforcement-learning-models-in-pytorch/](https://analyticsindiamag.com/a-guide-to-building-reinforcement-learning-models-in-pytorch/)  
 [https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)  
 [https://codefresh.io/learn/argo-cd/argo-cd-helm-chart/](https://codefresh.io/learn/argo-cd/argo-cd-helm-chart/)  
+[https://builtin.com/cybersecurity/cloud-data-protection-companies](https://builtin.com/cybersecurity/cloud-data-protection-companies)  
+[Introduction to CrowdStrike Falcon Endpoint Security Platform](https://youtu.be/tgryLPiVGLE)  
+[Securing the Cloud with CrowdStrike Cloud Workload Protection](https://youtu.be/4hVxQ0BRJXg)  
+[How does Ray compare to Apache Spark??](https://youtu.be/yLKHHiT2nWw)  
+[Introduction to Distributed Computing with the Ray Framework](https://youtu.be/cEF3ok1mSo0)  
+[Autoscaling machine learning APIs in Python with Ray](https://youtu.be/Xa_94PuUYQI)  
