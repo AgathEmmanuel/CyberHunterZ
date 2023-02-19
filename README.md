@@ -128,6 +128,7 @@ Connection Attempts, and Access
 
 # Steps  
 
+General steps  
 1. Risk management regime  
 2. Secure configuration  
 3. Network security  
@@ -138,6 +139,12 @@ Connection Attempts, and Access
 8. Monitoring  
 9. Removable media controls  
 10. Home and mobile working  
+
+Technical points  
+1. Data collection and normalization  
+2. Model building  
+3. Data analysis  
+
 
 ## Links  
 
