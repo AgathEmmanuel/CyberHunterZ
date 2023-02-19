@@ -112,6 +112,33 @@ Technologies Used:
 
 
 
+
+
+# Features  
+
+- Network Behavior Monitoring   
+
+Here is the sort of data you’ll look at:  
+
+Network Traffic Logs  
+IP Addresses of Connected Devices  
+Systems Configurations  
+Data Requests  
+Connection Attempts, and Access  
+
+# Steps  
+
+1. Risk management regime  
+2. Secure configuration  
+3. Network security  
+4. Managing user privileges  
+5. User education and awareness  
+6. Incident management  
+7. Malware prevention  
+8. Monitoring  
+9. Removable media controls  
+10. Home and mobile working  
+
 ## Links  
 
 [https://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html](https://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html)  
@@ -150,3 +177,7 @@ Technologies Used:
 [https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)  
 [https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/)  
 [https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)  
+[https://bowtiedraptor.substack.com/p/cybersecurity-meets-data-science](https://bowtiedraptor.substack.com/p/cybersecurity-meets-data-science)  
+[https://link.springer.com/book/10.1007/978-3-030-38788-4](Data Science in Cybersecurity and Cyberthreat Intelligence)  
+[https://www.routledge.com/Big-Data-Analytics-and-Intelligent-Systems-for-Cyber-Threat-Intelligence/Maleh-Alazab-Tawalbeh-Romdhani/p/book/9788770227780](Big Data Analytics and Intelligent Systems for Cyber Threat Intelligence)  
+[https://www.gov.je/StayingSafe/BeSafeOnline/ProtectYourBusinessOnline/pages/10stepstocybersecurity.aspx](10 steps to cyber security)  
